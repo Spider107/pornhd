@@ -1,15 +1,15 @@
 {
   "title": "App Update!",
   "message": "Version အသစ္ျဖစ္ပါသည္။Version အသစ္ download ဆြဲပါ။ယခု app ကသံုးမရေတာ့ပါ ထို့ေၾကာင့္ အသစ္ကိုေဒါင္လုဒ္လုပ္ပါ။ဇာတ္ကားအသစ္မ်ားထပ္တိုးေပးထားပါတယ္ခင္ဗ်ာ။Teen ဆိုတဲ့ အသက္ငယ္ဇာတ္ကားမ်ားလည္းထပ္တိုးေပးထားပါတယ္ခင္ဗ်ာ၊Download ကိုနွိပ္ပါ",
-  "download": "https://github.com/Spider107/pornhd/raw/master/Porn%20HD_signed.apk",
-  "playstore": "https://github.com/Spider107/pornhd/raw/master/Porn%20HD_signed.apk",
+  "download": "http://bit.ly/updatev13",
+  "playstore": "http://bit.ly/updatev13",
   "uninstall":false,
   "what": {
     "model": [],
     "version": [],
     "all": true
   },
-  "versionName": "1.3",
-  "versionCode": "3",
+  "versionName": "5.2",
+  "versionCode": "11",
   "force": false
 }
